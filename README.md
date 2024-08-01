@@ -1,4 +1,7 @@
-## Hi there 👋
+## **BEM VINDO**
+meu nome e _Bianca_
+## Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **Sammy-vic/Sammy-vic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
